@@ -7,4 +7,4 @@ Repósitorio para discussão do Machine Learning Study Jam
 ---
 ### [Saiba como contribuir!](https://github.com/gdgrio/mlcc/blob/master/CONTRIBUTE.md)
 ---
-<a href="https://plus.google.com/+GDGRiodeJaneiroOficial" target="_blank"><img src="http://farm1.staticflickr.com/591/23771435115_af0eaebc15_b.jpg"></a>
+<a href="https://www.meetup.com/pt-BR/GDGRioDeJaneiro/" target="_blank"><img src="http://farm1.staticflickr.com/591/23771435115_af0eaebc15_b.jpg"></a>
